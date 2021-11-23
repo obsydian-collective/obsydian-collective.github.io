@@ -1,5 +1,6 @@
 # Mission
 Obsydian Collective provides a safe and inclusive space for the Black community to collaborate, learn, and grow on political issues and activism.
+
 # Values
 ## I. Community
 - Promote volunteering, activism, and community organizing. Focus on building coalitions with local organizations.
