@@ -220,6 +220,14 @@ ul {
   text-align: center;
 }
 
+.disclaimer {
+  width: 50%;
+  min-width: 260px;
+  margin: 0 auto;
+  margin-bottom: 1.5em;
+  text-align: center;
+}
+
 .social-wrapper {
   display: flex;
   justify-content: space-around;
